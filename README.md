@@ -1,4 +1,4 @@
-👩‍💻 Курс HTML/CSS Advanced у CyberBionic Systematics 👩‍💻
+👩‍💻 Курс HTML5 & CSS3 Advanced у CyberBionic Systematics 👩‍💻
 
 Виконання практичного завдання.
 
